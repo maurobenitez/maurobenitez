@@ -6,7 +6,7 @@
 
 Hola, mi nombre es Mauro Benitez, gracias por interesarte en mi. Soy egresado del bootcamp Soy Henry. Además de haber cursado el bootcamp Soy Henry soy estudiante de la carrera licenciatura en sistemas en la Universidad Nacional de Tierra del Fuego. Durante mi tiempo en el bootcamp, aprendí habilidades valiosas en tecnologías frontend y backend. Estoy emocionado de comenzar mi carrera en esta industria y utilizar mis habilidades para contribuir a proyectos emocionantes.
 
-<h2>Mi background</h2>
+<h2>🧑🏻 Mi background 📚</h2>
 
 Siempre me ha interesado la tecnología, así que cuando me ofrecieron tomar una clase de programación en la secundaria, no dudé en inscribirme.
 
@@ -16,7 +16,7 @@ Después de la clase de programación, empecé a programar por diversión en mi 
 
 Debido a mi interés en la programación, decidí inscribirme en la universidad para estudiar licenciatura en sistemas. La carrera me brindó una educación más profunda en el campo del desarrollo de software, incluyendo temas como programación orientada a objetos, bases de datos, sistemas operativos y análisis de algoritmos.
 
-<h2>Mis aspiraciones profesionales</h2>
+<h2>🚀 Mis aspiraciones profesionales 💼</h2>
 
 Busco poner en práctica mis habilidades y conocimientos adquiridos en el bootcamp. Estoy en busca de una oportunidad en una empresa dinámica donde pueda contribuir al crecimiento de la empresa y al mismo tiempo continuar desarrollando mis habilidades como desarrollador.
 
