@@ -4,7 +4,7 @@
 
 <h1>Acerca de mi</h1>
 
-Hola, mi nombre es Mauro Benitez, gracias por interesarte en mi. Soy egresado del bootcamp Soy Henry. Además de haber cursado el bootcamp Soy Henry soy estudiante de la carrera licenciatura en sistemas en la Universidad Nacional de Tierra del Fuego.
+Hola, mi nombre es Mauro Benitez, gracias por interesarte en mi. Soy egresado del bootcamp Soy Henry. Además de haber cursado el bootcamp Soy Henry soy estudiante de la carrera licenciatura en sistemas en la Universidad Nacional de Tierra del Fuego. Durante mi tiempo en el bootcamp, aprendí habilidades valiosas en tecnologías frontend y backend. Estoy emocionado de comenzar mi carrera en esta industria y utilizar mis habilidades para contribuir a proyectos emocionantes.
 
 <h2>Mi background</h2>
 
