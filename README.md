@@ -32,7 +32,7 @@ Me gustaría trabajar en proyectos desafiantes que me permitan utilizar mis habi
 <p>📌 Express</p>
 <p>📌 Sequelize</p>
 <p>📌 Node.js</p>
-<p📌 Scrum</p>
+<p>📌 Scrum</p>
 
 <h3>Contáctame!💌</h3>
 <p>
