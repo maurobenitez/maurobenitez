@@ -36,8 +36,8 @@ Me gustaría trabajar en proyectos desafiantes que me permitan utilizar mis habi
 
 <h3>Contáctame!💌</h3>
 <p>
-  <img src="./assets/email-icon.png" alt="email icon" height="22px" width="22px" /> <b>Email: </b><a href="mailto:maurogabrielbenitez@gmail.com">maurogabrielbenitez@gmail.com</a>
+  <b>📧Email: </b><a href="mailto:maurogabrielbenitez@gmail.com">maurogabrielbenitez@gmail.com</a>
 </p>
 <p>
-  <img src="./assets/linkedin-icon.jpg" alt="linkedin icon" height="20px" width="20px" /><b>Linkedin: </b><a href="https://www.linkedin.com/in/mauro-gabriel-benitez">https://www.linkedin.com/in/mauro-gabriel-benitez/</a>
+  <b>💼Linkedin: </b><a href="https://www.linkedin.com/in/mauro-gabriel-benitez">https://www.linkedin.com/in/mauro-gabriel-benitez/</a>
 </p>
