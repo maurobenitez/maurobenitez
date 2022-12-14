@@ -23,16 +23,16 @@ Busco poner en práctica mis habilidades y conocimientos adquiridos en el bootca
 Me gustaría trabajar en proyectos desafiantes que me permitan utilizar mis habilidades en desarrollo front-end y back-end y colaborar con un equipo de desarrolladores experimentados que me puedan enseñar y guiar en mi carrera profesional. Además, estoy interesado en seguir aprendiendo y manteniéndome actualizado con las últimas tendencias y tecnologías en el campo del desarrollo de software.
 
 <h2>⚙️ SKILLS ⚙️</h2>
-<p>➖ React</p>
-<p>➖ HTML</p>
-<p>➖ CSS</p>
-<p>➖ Javascript</p>
-<p>➖ SQL</p>
-<p>➖ React</p>
-<p>➖ Express</p>
-<p>➖ Sequelize</p>
-<p>➖ Node.js</p>
-<p>➖ Scrum</p>
+<p>🔹 React</p>
+<p>🔹 HTML</p>
+<p>🔹 CSS</p>
+<p>🔹 Javascript</p>
+<p>🔹 SQL</p>
+<p>🔹 React</p>
+<p>🔹 Express</p>
+<p>🔹 Sequelize</p>
+<p>🔹 Node.js</p>
+<p>🔹 Scrum</p>
 
 <h3>Contáctame!💌</h3>
 <p>
